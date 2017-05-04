@@ -1,4 +1,4 @@
-# SELinux-NagiosXI
+# SELinux-NagiosCore
 
 
 example
